@@ -7,16 +7,6 @@
   box-sizing: border-box;
 }
 
-body {
-  background-image: url("./images/bg.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  font-family: "Montserrat", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 800;
-  font-style: normal;
-}
-
 main,
 .full-screen-width {
   min-height: calc(100vh - 85px);
